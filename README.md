@@ -1,4 +1,4 @@
-# Imran Hasan Raaz
+# Imran Hasan
 
 **QA Engineer | WordPress Contributor | Test Automation Enthusiast | Plugin Developer (in progress)**  
 📍 Based in Bangladesh | 💼 Currently at [rtCamp](https://rtcamp.com)
